@@ -1,2 +1,2 @@
 <h1 align="center">Hi 👋, I'm Astrid</h1>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=astridvdm)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=astridvdm&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" /></a>
